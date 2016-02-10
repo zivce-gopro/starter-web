@@ -6,7 +6,7 @@
  	Milos Zivkovic TheBro
 
 # THANKS
-
+	Pusite kurac
     <name>
 
 # TECHNOLOGY COLOPHON
