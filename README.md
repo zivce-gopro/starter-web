@@ -20,3 +20,6 @@ Broskis are you up for some features.
 
 ## great stuff 
 Here you are now!!1
+
+##Copyright
+Copyright Notice
