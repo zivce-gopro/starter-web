@@ -22,4 +22,4 @@ Broskis are you up for some features.
 Here you are now!!1
 
 ##Copyright
-Copyright Notice
+Copyright Notice. All rights!
